@@ -1,0 +1,7 @@
+spring:
+## sql.init.mode: always - executes the sql scripts defined in the resource folder to init datasource
+#  sql:
+#    init:
+#      mode: always
+  r2dbc:
+    url: r2dbc:tc:postgresql:///customers?TC_IMAGE_TAG=13.2-alpine
