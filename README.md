@@ -28,3 +28,6 @@ Test containers are new features brought from Spring Boot 3
 and allow you to start containers while testing. As soon as you run integration tests,
 test containers will be deployed and used. As soon as tests are executed, 
 containers are removed. 
+
+### P.S. This example was given in a [speech presented By Josh Long](https://www.youtube.com/watch?v=pXtTp4Uxuhk&ab_channel=KotlinbyJetBrains)
+
